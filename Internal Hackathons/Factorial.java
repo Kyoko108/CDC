@@ -23,4 +23,8 @@ class Factorial {
           System.out.println("The factorial is :" + factorial(a));
      }
 }
-/** */
+/**
+ * Enter a number to find its factorial:
+ * 5.0
+ * The factorial is :120.0
+ */
